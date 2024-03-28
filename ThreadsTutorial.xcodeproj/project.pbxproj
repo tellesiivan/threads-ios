@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		5532CE992BB5AF0D003E15F6 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
-		55D32DC22BADBD090000D08E /* ThreadsTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThreadsTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		55D32DC22BADBD090000D08E /* ThreadsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThreadsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55D32DC52BADBD090000D08E /* ThreadsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsApp.swift; sourceTree = "<group>"; };
 		55D32DC72BADBD090000D08E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		55D32DC92BADBD0B0000D08E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 		55D32DC32BADBD090000D08E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				55D32DC22BADBD090000D08E /* ThreadsTutorial.app */,
+				55D32DC22BADBD090000D08E /* ThreadsApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -145,9 +145,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		55D32DC12BADBD090000D08E /* ThreadsTutorial */ = {
+		55D32DC12BADBD090000D08E /* ThreadsApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 55D32DD02BADBD0B0000D08E /* Build configuration list for PBXNativeTarget "ThreadsTutorial" */;
+			buildConfigurationList = 55D32DD02BADBD0B0000D08E /* Build configuration list for PBXNativeTarget "ThreadsApp" */;
 			buildPhases = (
 				55D32DBE2BADBD090000D08E /* Sources */,
 				55D32DBF2BADBD090000D08E /* Frameworks */,
@@ -157,9 +157,9 @@
 			);
 			dependencies = (
 			);
-			name = ThreadsTutorial;
+			name = ThreadsApp;
 			productName = ThreadsTutorial;
-			productReference = 55D32DC22BADBD090000D08E /* ThreadsTutorial.app */;
+			productReference = 55D32DC22BADBD090000D08E /* ThreadsApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -190,7 +190,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				55D32DC12BADBD090000D08E /* ThreadsTutorial */,
+				55D32DC12BADBD090000D08E /* ThreadsApp */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ThreadsTutorial/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ThreadsApp/Preview Content\"";
 				DEVELOPMENT_TEAM = 76DJ7VJN6W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -376,7 +376,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ThreadsTutorial/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ThreadsApp/Preview Content\"";
 				DEVELOPMENT_TEAM = 76DJ7VJN6W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -410,7 +410,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		55D32DD02BADBD0B0000D08E /* Build configuration list for PBXNativeTarget "ThreadsTutorial" */ = {
+		55D32DD02BADBD0B0000D08E /* Build configuration list for PBXNativeTarget "ThreadsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				55D32DD12BADBD0B0000D08E /* Debug */,
